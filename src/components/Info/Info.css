@@ -25,9 +25,9 @@
   font-size: xx-large;
 }
 .i2 {
-  width: 356.76px;
+  width: 340.76px;
   height: 400px;
-  margin-left: 20px;
+  margin-left: 2%;
 }
 .Wel,
 .Med {
@@ -96,6 +96,7 @@
     height: 500px;
     margin-right: 200px;
     margin-top: -15%;
+    margin-left: 0%;
   }
 
   .Wel,

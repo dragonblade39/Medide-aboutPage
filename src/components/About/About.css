@@ -4,14 +4,15 @@
   font-size: x-large;
   text-align: center;
   line-height: 160%;
-  padding-left: 3%;
-  padding-right: 3%;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
 .about {
   background-color: #fce9fe;
   border-top: 2px solid #f39dc9;
   border-bottom: 2px solid #f39dc9;
+  padding-right: 4%;
 }
 
 .about_main {
@@ -35,8 +36,8 @@
     font-size: x-large;
     line-height: 300%;
     text-align: center;
-    margin-left: 15%;
-    margin-right: 15%;
+    padding-left: 15%;
+    padding-right: 15%;
   }
   .pinky1 {
     color: #eb64a9;
