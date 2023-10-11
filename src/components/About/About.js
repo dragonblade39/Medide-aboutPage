@@ -15,7 +15,7 @@ function About() {
       </h1>
       <br />
       <br />
-      <p className="para" data-aos="zoom-out-down">
+      <p className="para">
         Born out of VIT's innovation hub,Medide is a forward looking startup
         transforming how we experience healthcare.We're your bridege to
         essesntial medical services,like diagnostic centers,blood banks,
